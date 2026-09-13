@@ -45,6 +45,9 @@ The system operates in four states:
 
 The project is developed and tested in **Wokwi**, allowing the sensor readings, alerts, OLED display and actuator responses to be tested without physical hardware.
 
+## WOKWI LINK
+[LINK:https://wokwi.com/projects/474989846057105409]
+
 ## 📌 Project Status
 
 **Completed simulation prototype**
